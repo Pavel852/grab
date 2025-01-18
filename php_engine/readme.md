@@ -1,6 +1,5 @@
-======================================
- SCRAPER PRO WEB FIRMY.CZ
-======================================
+# SCRAPER PRO WEB FIRMY.CZ
+
 
 Popis (Česky):
 ----------------
@@ -69,4 +68,4 @@ Under the following terms:
   - Attribution: You must give appropriate credit, provide a link 
     to the license, and indicate if changes were made.
 
-(c) 2025 Váš Autorský Tým
+
